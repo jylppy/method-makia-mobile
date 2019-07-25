@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget android-versionCode="4" id="com.methodmakia.health" ios-CFBundleVersion="4" version="0.9.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Method Makia</name>
+    <description>Method Makia mobile application</description>
+    <content src="index.html" />
+    <plugin name="cordova-plugin-whitelist" spec="1" />
+    <plugin name="cordova-plugin-splashscreen" spec="~4.0.3" />
+    <plugin name="cordova-plugin-insomnia" spec="~4.3.0" />
+    <preference name="phonegap-version" value="cli-6.5.0" />
+    <preference name="AutoHideSplashScreen" value="false" />
+    <preference name="ShowSplashScreenSpinner" value="false" />
+    <preference name="SplashMaintainAspectRatio" value="true" />
+    <preference name="SplashShowOnlyFirstTime" value="true" />
+    <platform name="android">
+        <preference name="SplashScreen" value="splash" />
+        <icon density="ldpi" platform="android" src="www/res/icon/android/icon-36-ldpi.png" />
+        <icon density="mdpi" platform="android" src="www/res/icon/android/icon-48-mdpi.png" />
+        <icon density="hdpi" platform="android" src="www/res/icon/android/icon-72-hdpi.png" />
+        <icon density="xhdpi" platform="android" src="www/res/icon/android/icon-96-xhdpi.png" />
+        <icon density="xxhdpi" platform="android" src="www/res/icon/android/icon-144-xxhdpi.png" />
+        <icon density="xxxhdpi" platform="android" src="www/res/icon/android/icon-192-xxxhdpi.png" />
+        <splash platform="android" qualifier="land-hdpi" src="www/res/screen/android/splash-land-hdpi.png" />
+        <splash platform="android" qualifier="land-ldpi" src="www/res/screen/android/splash-land-ldpi.png" />
+        <splash platform="android" qualifier="land-mdpi" src="www/res/screen/android/splash-land-mdpi.png" />
+        <splash platform="android" qualifier="land-xhdpi" src="www/res/screen/android/splash-land-xhdpi.png" />
+        <splash platform="android" qualifier="land-xxhdpi" src="www/res/screen/android/splash-land-xxhdpi.png" />
+        <splash platform="android" qualifier="land-xxxhdpi" src="www/res/screen/android/splash-land-xxxhdpi.png" />
+        <splash platform="android" qualifier="port-hdpi" src="www/res/screen/android/splash-port-hdpi.png" />
+        <splash platform="android" qualifier="port-ldpi" src="www/res/screen/android/splash-port-ldpi.png" />
+        <splash platform="android" qualifier="port-mdpi" src="www/res/screen/android/splash-port-mdpi.png" />
+        <splash platform="android" qualifier="port-xhdpi" src="www/res/screen/android/splash-port-xhdpi.png" />
+        <splash platform="android" qualifier="port-xxhdpi" src="www/res/screen/android/splash-port-xxhdpi.png" />
+        <splash platform="android" qualifier="port-xxxhdpi" src="www/res/screen/android/splash-port-xxxhdpi.png" />
+    </platform>
+    <platform name="ios">
+        <preference name="target-device" value="universal" />
+        <preference name="orientation" value="all" />
+        <icon height="180" platform="ios" src="www/res/icon/ios/icon-60-3x.png" width="180" />
+        <icon height="60" platform="ios" src="www/res/icon/ios/icon-60.png" width="60" />
+        <icon height="120" platform="ios" src="www/res/icon/ios/icon-60-2x.png" width="120" />
+        <icon height="76" platform="ios" src="www/res/icon/ios/icon-76.png" width="76" />
+        <icon height="152" platform="ios" src="www/res/icon/ios/icon-76-2x.png" width="152" />
+        <icon height="40" platform="ios" src="www/res/icon/ios/icon-40.png" width="40" />
+        <icon height="80" platform="ios" src="www/res/icon/ios/icon-40-2x.png" width="80" />
+        <icon height="57" platform="ios" src="www/res/icon/ios/icon-57.png" width="57" />
+        <icon height="114" platform="ios" src="www/res/icon/ios/icon-57-2x.png" width="114" />
+        <icon height="72" platform="ios" src="www/res/icon/ios/icon-72.png" width="72" />
+        <icon height="144" platform="ios" src="www/res/icon/ios/icon-72-2x.png" width="144" />
+        <icon height="167" platform="ios" src="www/res/icon/ios/icon-167.png" width="167" />
+        <icon height="29" platform="ios" src="www/res/icon/ios/icon-small.png" width="29" />
+        <icon height="58" platform="ios" src="www/res/icon/ios/icon-small-2x.png" width="58" />
+        <icon height="87" platform="ios" src="www/res/icon/ios/icon-small-3x.png" width="87" />
+        <icon height="50" platform="ios" src="www/res/icon/ios/icon-50.png" width="50" />
+        <icon height="100" platform="ios" src="www/res/icon/ios/icon-50-2x.png" width="100" />
+        <icon height="167" platform="ios" src="www/res/icon/ios/icon-83.5-2x.png" width="167" />
+        <splash height="480" platform="ios" src="www/res/screen/ios/Default~iphone.png" width="320" />
+        <splash height="960" platform="ios" src="www/res/screen/ios/Default@2x~iphone.png" width="640" />
+        <splash height="1024" platform="ios" src="www/res/screen/ios/Default-Portrait~ipad.png" width="768" />
+        <splash height="2048" platform="ios" src="www/res/screen/ios/Default-Portrait@2x~ipad.png" width="1536" />
+        <splash height="768" platform="ios" src="www/res/screen/ios/Default-Landscape~ipad.png" width="1024" />
+        <splash height="1536" platform="ios" src="www/res/screen/ios/Default-Landscape@2x~ipad.png" width="2048" />
+        <splash height="1136" platform="ios" src="www/res/screen/ios/Default-568h@2x~iphone.png" width="640" />
+        <splash height="1334" platform="ios" src="www/res/screen/ios/Default-667h.png" width="750" />
+        <splash height="2208" platform="ios" src="www/res/screen/ios/Default-736h.png" width="1242" />
+        <splash height="1242" platform="ios" src="www/res/screen/ios/Default-Landscape-736h.png" width="2208" />
+    </platform>
+    <plugin name="cordova-allow-background-audio" spec="^1.0.2" />
+    <plugin name="cordova-instagram-plugin" spec="^0.5.7" />
+    <plugin name="cordova-plugin-file-transfer" spec="^1.7.1" />
+    <plugin name="cordova-plugin-inappbrowser" spec="git+https://github.com/apache/cordova-plugin-inappbrowser.git" />
+    <engine name="ios" spec="^4.5.5" />
+    <engine name="android" spec="^6.4.0" />
+    <engine name="browser" spec="^5.0.4" />
+</widget>

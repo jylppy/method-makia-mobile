@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f327d562-8115-49a1-bf62-b08e536410f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/module_new-makia.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/module_new-makia_Thu_Jul_25_11-58-36_EEST_2019.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/new-makia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/makia.keystore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new-makia.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new-makia.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new-makia_Thu_Jul_25_11-58-36_EEST_2019.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new-makia_Thu_Jul_25_11-58-36_EEST_2019.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prepare-resources.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ul_web_hooks/android/android_web_hook.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/cordova.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/icon/android/icon-144-xxhdpi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/icon/android/icon-192-xxxhdpi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/icon/android/icon-36-ldpi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/icon/android/icon-48-mdpi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/icon/android/icon-72-hdpi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/icon/android/icon-96-xhdpi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/icon/ios/icon-167.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/icon/ios/icon-40-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/icon/ios/icon-40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/icon/ios/icon-50-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/icon/ios/icon-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/icon/ios/icon-57-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/icon/ios/icon-57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/icon/ios/icon-60-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/icon/ios/icon-60-3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/icon/ios/icon-60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/icon/ios/icon-72-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/icon/ios/icon-72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/icon/ios/icon-76-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/icon/ios/icon-76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/icon/ios/icon-83.5-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/icon/ios/icon-small-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/icon/ios/icon-small-3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/icon/ios/icon-small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/screen/android/splash-land-hdpi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/screen/android/splash-land-ldpi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/screen/android/splash-land-mdpi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/screen/android/splash-land-xhdpi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/screen/android/splash-land-xxhdpi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/screen/android/splash-land-xxxhdpi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/screen/android/splash-port-hdpi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/screen/android/splash-port-ldpi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/screen/android/splash-port-mdpi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/screen/android/splash-port-xhdpi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/screen/android/splash-port-xxhdpi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/screen/android/splash-port-xxxhdpi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/screen/ios/Default-568h@2x~iphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/screen/ios/Default-667h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/screen/ios/Default-736h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/screen/ios/Default-Landscape-736h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/screen/ios/Default-Landscape@2x~ipad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/screen/ios/Default-Landscape~ipad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/screen/ios/Default-Portrait@2x~ipad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/screen/ios/Default-Portrait~ipad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/screen/ios/Default@2x~iphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/screen/ios/Default@2x~universal~anyany.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/screen/ios/Default~iphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/res/splash-screen.png" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="351301477">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="63" />
+          <entry key="xml" value="126" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="63" />
+          <entry key="XML" value="126" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gradle" value="1" />
+          <entry key="html" value="1" />
+          <entry key="json" value="1" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Groovy" value="1" />
+          <entry key="HTML" value="1" />
+          <entry key="JSON" value="1" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/platforms/android/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="16" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/platforms/android/android.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1073" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/platforms/android/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-527">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1080">
+              <caret line="72" column="43" selection-start-line="72" selection-start-column="43" selection-end-line="72" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="30" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config.xml" />
+        <option value="$PROJECT_DIR$/www/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="new-makia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new-makia" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new-makia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new-makia" type="462c0819:PsiDirectoryNode" />
+              <item name="platforms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new-makia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new-makia" type="462c0819:PsiDirectoryNode" />
+              <item name="platforms" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new-makia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new-makia" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new-makia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new-makia" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="new-makia" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f327d562-8115-49a1-bf62-b08e536410f9" name="Default Changelist" comment="" />
+      <created>1550221107699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550221107699</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20084566" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Logcat" order="1" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Android Profiler" order="5" show_stripe_button="false" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/www/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="72" column="43" selection-start-line="72" selection-start-column="43" selection-end-line="72" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="30" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-527">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/android.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1073" />
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Invalid</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>new-makia</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
